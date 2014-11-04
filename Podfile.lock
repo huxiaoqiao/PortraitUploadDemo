@@ -1,0 +1,10 @@
+PODS:
+  - APAvatarImageView (1.1.0)
+
+DEPENDENCIES:
+  - APAvatarImageView (~> 1.1.0)
+
+SPEC CHECKSUMS:
+  APAvatarImageView: b8324f6798f6068b61c433a43edeeba157e74bb2
+
+COCOAPODS: 0.34.4
